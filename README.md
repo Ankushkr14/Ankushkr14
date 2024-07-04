@@ -11,6 +11,16 @@
 
 <br/>
 
+## 🤝 Connect with me:
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AnkushPro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kr.ankush14@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankkkush_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-kumar-363416230/)
+
+## Featured Projects
+
+
 ## 📈 GitHub Stats
 
 ![Ankushkr14's Github stats](https://github-readme-stats.vercel.app/api?username=Ankushkr14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
