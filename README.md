@@ -6,7 +6,7 @@
   - 💼 Looking for job opportunities in software development.
   - 👯 I’m looking to collaborate on open source projects.
   - 💬 Ask me about Java, JavaScript, and web development.
-  - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
+  - 💬 Ask me about life advice, tech solution 👩‍💻, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
   - 📫 How to reach me: DM 📱 email-kr.ankush14@gmail.com
 
 <br/>
