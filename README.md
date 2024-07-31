@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats
 
-<img height="155em" src="https://raw.githubusercontent.com/Ankushkr14/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Ankush github stats" />
+[![Ankush Github stat](https://github-readme-stats.vercel.app/api?username=Ankushkr14)](https://github.com/Ankushkr14)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr14&theme=radical&hide)]
 
 ## 💻 Tech Stack
