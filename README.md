@@ -2,7 +2,7 @@
 
 ## I ✨ like ✨ problem solving, traveling, video games, conversations. I ✨ like ✨ to   explore new places with different traditions and cultures.
 
-  - 🔭 I’m currently learning on Backend Development using Spring Boot and exploring other frameworks.
+  - 🔭 I’m currently learning on Backend Development and exploring other frameworks.
   - 💼 Looking for job opportunities in software development.
   - 👯 I’m looking to collaborate on open source projects.
   - 💬 Ask me about Java, JavaScript, and web development.
@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats
 
-![Ankushkr14's Github stats](https://github-readme-stats.vercel.app/api?username=Ankushkr14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<img height="155em" src="https://raw.githubusercontent.com/Ankushkr14/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Ankush github stats" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr14&theme=radical&hide)]
 
 ## 💻 Tech Stack
