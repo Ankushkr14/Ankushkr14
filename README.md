@@ -9,14 +9,6 @@
   - 💬 Ask me about life advice, tech solution 👩‍💻, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
   - 📫 How to reach me: DM 📱 email-kr.ankush14@gmail.com
 
-<br/>
-<details>
-  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-</div>
-</details>
-
 ## 🤝 Connect with me:
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AnkushPro)
