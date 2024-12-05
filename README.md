@@ -26,11 +26,6 @@
 
 
 
-## 📈 GitHub Stats
-
-[![Ankush Github stat](https://github-readme-stats.vercel.app/api?username=Ankushkr14)](https://github.com/Ankushkr14)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr14&theme=radical&hide)]
-
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
