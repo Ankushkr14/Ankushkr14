@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Ankush**! <img src="https://user-images.githubusercontent.com/74038190/214642515-aada373e-73d6-47fd-9951-5caf97e73c65.png" height="100" widht="100" align="center"/>
 
-## I ✨ like ✨ problem solving, traveling, video games, conversations. I ✨ like ✨ to   explore new places with different traditions and cultures.
+## Ask and share new tech note
 
   - 🔭 I’m currently learning on Backend Development and exploring other frameworks.
   - 💼 Looking for job opportunities in software development.
