@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋  I'm Ankush</h1>
 
-## Statistics 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankushkr14&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
