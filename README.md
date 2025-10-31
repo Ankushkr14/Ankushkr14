@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkr14&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankushkr14&color=green" alt="Profile View" />
 </p>
 
